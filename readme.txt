@@ -4,4 +4,4 @@ addxxxxx
 xxx3
 xxx4
 xxx5
-Git tracks changes
+Git tracks changes of files
